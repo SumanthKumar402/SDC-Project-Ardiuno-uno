@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"BAT1, BAT2",2," 9V Battery"
+"D1, D2",2,"Red LED"
+"R1",1,"330 Ω Resistor"
